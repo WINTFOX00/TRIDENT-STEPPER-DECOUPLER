@@ -109,6 +109,7 @@ Test print result (Click to view fullsize for correct display) :
 
 Discord : Wintfox#0709
 
+***Thanks for stopping by !
 
 
 
