@@ -96,7 +96,7 @@ You don't need to disassemble the entire A/B drive, just loosen the belt, remove
 ![image](https://user-images.githubusercontent.com/58668874/226815815-27ad0840-b101-4ff6-9d83-b0878873023a.png)
 
 
-***This is the final step. You can continue to assemble side A with the same steps. Re-tension the belt, recalibrate the Input Shaper and enjoy.
+***This is the final step. You can continue to assemble side A with the same steps. Re-tension the belt, recalibrate the Input Shaper and Enjoy !
 
 Test print result (Click to view fullsize for correct display) : 
 
@@ -104,6 +104,10 @@ Test print result (Click to view fullsize for correct display) :
 
 
 
+
+***Feel free to contact me if there is any problem
+
+Discord : Wintfox#0709
 
 
 
