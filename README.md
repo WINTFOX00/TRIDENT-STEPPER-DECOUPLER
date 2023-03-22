@@ -3,7 +3,7 @@
 #STEPPER DECOUPLER FOR VORON TRIDEN
 
 
------------------------------
+..................
 
 
 Stepper decoupler for Nema17 motors. Reduce VFA, make it more sturdy, smoother and quieter.
