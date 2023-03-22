@@ -73,7 +73,7 @@ You don't need to disassemble the entire A/B drive, just loosen the belt, remove
 
 ![image](https://user-images.githubusercontent.com/58668874/226806213-6c1f13bb-91ab-4463-aeae-9b21d2707ba9.png)
 
-3/ Remove 3 M3 screws on B Drive. Be careful not to let the stepper fall ( Extra reminder for sure : No need to disassemble idler bearings)
+3/ Remove 3 M3 screws on B Drive. Be careful not to let the stepper fall ( *Extra reminder for sure : No need to disassemble idler bearings*)
 
 
 ![image](https://user-images.githubusercontent.com/58668874/226806528-a360086e-5fa4-4920-83c8-d6c1d8dfb530.png)
