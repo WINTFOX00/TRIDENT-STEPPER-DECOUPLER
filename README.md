@@ -9,8 +9,15 @@
 Stepper decoupler for Nema17 motors. Reduce VFA, make it more sturdy, smoother and quieter.
 
 
+-------------------------------------------------
+
+
 
 https://user-images.githubusercontent.com/58668874/226819730-55bcf3cf-9251-406a-b716-160ee1cf82bb.mp4
+
+
+
+-------------------------------------------------
 
 
 
