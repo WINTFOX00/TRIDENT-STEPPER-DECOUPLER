@@ -105,11 +105,11 @@ Test print result (Click to view fullsize for correct display) :
 
 
 
-***Feel free to contact me if there is any problem
+**Feel free to contact me if there is any problem
 
 Discord : Wintfox#0709
 
-***Thanks for stopping by !
+**Thanks for stopping by !
 
 
 
