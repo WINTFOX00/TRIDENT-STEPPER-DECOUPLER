@@ -6,13 +6,11 @@
 ![image](https://user-images.githubusercontent.com/58668874/226800886-dede7f22-6025-4f49-bac3-4292e35cb6fa.png)
 
 
-
-
-
 Stepper decoupler for Nema17 motors. Reduce VFA, make it more sturdy, smoother and quieter.
 
 
 
+https://user-images.githubusercontent.com/58668874/226819730-55bcf3cf-9251-406a-b716-160ee1cf82bb.mp4
 
 
 
@@ -85,12 +83,9 @@ You don't need to disassemble the entire A/B drive, just loosen the belt, remove
 
 ***This is the final step. You can continue to assemble side A with the same steps. Re-tension the belt, recalibrate the Input Shaper and enjoy.
 
-Test print result : 
+Test print result (Click to view fullsize for correct display) : 
 
-![image](https://user-images.githubusercontent.com/58668874/226818192-8ccd0fd2-9798-472e-9625-33026dc3461d.png)
-
-
-![image](https://user-images.githubusercontent.com/58668874/226818223-6976f370-d4d2-4e07-8050-99202d262430.png)
+![image](https://user-images.githubusercontent.com/58668874/226820195-b7bf8d69-5bc5-4fd3-ac86-7ca567ec5213.png)
 
 
 
